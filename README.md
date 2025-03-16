@@ -21,7 +21,7 @@ A web application for [describe purpose of the app, e.g., connecting communities
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/TarunAika/communion-hub.git
    ```
 2. Navigate to the project folder:
    ```sh
